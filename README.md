@@ -4,6 +4,9 @@
 Grinding till I get the job.
 Building real DevOps + Cloud skills in public.
 
+
+
+
 📌 About This Repository
 
 This repository documents my continuous learning journey in:
@@ -23,6 +26,8 @@ Infrastructure & monitoring
 Instead of just claiming skills, I’m building and documenting everything here — step by step.
 
 
+
+
 🎯 Objective
 
 Build strong fundamentals in DevOps
@@ -39,6 +44,9 @@ Deploy applications using modern DevOps practices
 
 Prepare for Azure DevOps Engineer-level interviews
 
+
+
+
 🔁 DevOps Lifecycle Focus
 
 This journey covers all stages of the DevOps lifecycle:
@@ -46,6 +54,8 @@ This journey covers all stages of the DevOps lifecycle:
 Plan → Code → Build → Test → Release → Deploy → Operate → Monitor
 
 Each section of this repository aligns with one or more stages of this lifecycle.
+
+
 
 ## 📂 Repository Structure
 
