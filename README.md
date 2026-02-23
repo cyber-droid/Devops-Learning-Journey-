@@ -47,7 +47,8 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor
 
 Each section of this repository aligns with one or more stages of this lifecycle.
 
-📂 Repository Structure
+## 📂 Repository Structure
+
 devops-learning-journey/
 │
 ├── git-fundamentals/
@@ -73,6 +74,7 @@ devops-learning-journey/
 │   └── concepts.md
 │
 └── progress-log.md
+
 
 🛠 Tools Covered
 
